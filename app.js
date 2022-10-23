@@ -96,3 +96,4 @@ function getColorsFromHash() {
 }
 
 setRendomColors(true);
+
