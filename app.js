@@ -83,6 +83,8 @@ function updateColorsHash(colors = []) {
 }
 
 
+
+1
 function getColorsFromHash() {
   if (document.location.hash.length > 1) {
     document.location.hash
